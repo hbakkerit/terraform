@@ -35,4 +35,6 @@ then
 ./configure_azure_provider.sh
 fi
 
-echo "Install script finished, please logoff and logon again for the changes to take place"
+# finish
+echo "Install script finished, go to ${TERRAFORM_HOME}/${TERRAFORM_CONFIG_SUBDIR} to find your configuration"
+echo "Please logoff and logon again for the changes to take place"

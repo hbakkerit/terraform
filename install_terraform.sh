@@ -42,6 +42,3 @@ terraform --version
 
 # cleanup
 rm -f ${TEMP_INSTALL_DIR}/terraform_${TERRAFORM_VERSION}_linux_${TERRAFORM_ARCHITECTURE}.zip
-
-# finish
-echo "Install script finished, go to ${TERRAFORM_HOME}/${TERRAFORM_CONFIG_SUBDIR} to find your configuration"
