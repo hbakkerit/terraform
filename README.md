@@ -1,4 +1,4 @@
-# terraform_config
+# terraform
 
 ## usage
 
